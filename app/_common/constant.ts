@@ -1,0 +1,1 @@
+export const baseURL = "https://vendor-api.api-clothme.workers.dev/v1/api/vendor"
